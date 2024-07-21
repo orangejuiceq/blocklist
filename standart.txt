@@ -1,1 +1,1 @@
-test
+https://raw.githubusercontent.com/orangejuiceq/blocklist/main/sites.txt
